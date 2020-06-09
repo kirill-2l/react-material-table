@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b023decf-078c-4800-9c35-79ce9d49b8cb",
+    "name": "Neva",
+    "type": "main",
+    "color": "#fff"
+  },
+  {
+    "id": "7a63ad96-50d2-40eb-9c56-385679333ff4",
+    "name": "Sellers",
+    "type": "main",
+    "color": "#fff"
+  },
+  {
+    "id": "90df2a9f-c7f6-4c52-827e-3fbdeafb3128",
+    "name": "Wade",
+    "type": "main",
+    "color": "#fff"
+  },
+  {
+    "id": "8b54f8fe-6127-45e0-9e8f-0db3645200f7",
+    "name": "Francine",
+    "type": "main",
+    "color": "#fff"
+  },
+  {
+    "id": "f6a9b49c-0053-4b17-8345-cea54b64d2ad",
+    "name": "Juliana",
+    "type": "main",
+    "color": "#fff"
+  },
+  {
+    "id": "08f553e3-6197-4e01-a2f6-0c10d2f736f5",
+    "name": "Sears",
+    "type": "main",
+    "color": "#fff"
+  },
+  {
+    "id": "c31ba11f-f752-43fc-8bba-ef561124bf94",
+    "name": "Greer",
+    "type": "main",
+    "color": "#fff"
+  },
+  {
+    "id": "6d413f0e-4082-4536-989f-7ee5fbf5856a",
+    "name": "Shari",
+    "type": "main",
+    "color": "#fff"
+  },
+  {
+    "id": "fe281041-1cc4-4f89-9614-e038e663c394",
+    "name": "Leonard",
+    "type": "main",
+    "color": "#fff"
+  },
+  {
+    "id": "ea60f9c3-84e6-4f46-b7e9-98db181579df",
+    "name": "Hickman",
+    "type": "main",
+    "color": "#fff"
+  }
+]
